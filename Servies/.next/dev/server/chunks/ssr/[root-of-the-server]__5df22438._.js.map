@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/janvi/Desktop/Servies/app/portfolio/page.jsx"],"sourcesContent":["export default function Portfolio() {\r\n    return (\r\n       <>\r\n       \r\n       </>\r\n    );\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACG;AAIP"}}]
+}
