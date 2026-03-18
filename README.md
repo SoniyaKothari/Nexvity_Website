@@ -30,7 +30,7 @@ This ensures **consistent, secure, and automated delivery** of applications.
 - **Security Tools:** OWASP Dependency Check, Trivy  
 - **Containerization:** Docker  
 - **Registry:** Docker Hub  
-- **Cloud Platform:** AWS EC2 
+- **Cloud Platform:** AWS EC2  
 - **OS:** Ubuntu Linux  
 
 ---
@@ -134,23 +134,19 @@ The system includes:
 
 ---
 
-## 🔮 Future Enhancements
+## 📸 Screenshots
 
-- Add monitoring tools (Prometheus, Grafana)
-- Kubernetes-based deployment
-- AI-based failure prediction
-- Real-time dashboard for pipeline tracking
-- Support for microservices architecture
+### 🔹 Jenkins Pipeline (CI/CD Execution)
+![Jenkins Pipeline](screenshots/1.png)
 
----
+### 🔹 SonarQube Code Quality Report
+![SonarQube](screenshots/4.png)
 
-## 📂 Repository Link
-
-👉 [GitHub Repository](https://github.com/SoniyaKothari/Nexvity_Website.git)
+### 🔹 Deployed Application (AWS EC2)
+![Deployed App](screenshots/9.png)
 
 ---
 
 ## 👩‍💻 Author
 
-**Soniya Kothari**  
-
+**Soniya Kothari**
